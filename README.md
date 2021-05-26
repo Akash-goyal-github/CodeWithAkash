@@ -19,5 +19,5 @@
 |D-1|[Move all negative elements to end](https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-1/Problem-5.java|Beginner|
 |D-2|[Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-2/Problem-1.java|Beginner|
 |D-2|[Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-2/Problem-2.java|Beginner|
-|D-2|[Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-2/Problem-3.java|Medium***|
+|D-2|[Kadane's Algorithm***](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-2/Problem-3.java|Medium|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
