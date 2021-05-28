@@ -1,12 +1,12 @@
 /**
  * @author AkashGoyal
- * @date 25/05/2021
+ * @date 27/05/2021
  */
 
 /**
 
 
---------------------- Problem----------->> (Find Largest contiguous Subarray) Kadane's Algorithm
+--------------------- Problem----------->> Kadane's Algorithm
 
     Problem Link :- https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1
 
