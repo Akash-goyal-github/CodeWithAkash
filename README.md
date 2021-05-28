@@ -1,5 +1,5 @@
 
-  <h1 align="center"> Daily codeWithAkash</h1>
+  <h1 align="center"> Daily codeWithAkash :boom::100:</h1>
   <p align="center">
   <img src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif">
 
@@ -11,13 +11,22 @@
 <br>
 
 
-## Topics:-
 
-- [Array](#array)
-- [String](#string)
+## Topics :sunglasses:
+
+---
+:white_check_mark: [Array](#array)      
+
+---
+
+<br>
+
+<br>
 
 
-# Array 
+# Array
+
+<br>
 
 
 |Day|Problem|Solution Link|Difficulty|
@@ -41,5 +50,3 @@
 |D-5|[Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-5/Problem-3.java|Hard|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
-
-# String
