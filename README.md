@@ -19,7 +19,6 @@
 |D-1|[Move all negative elements to end](https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-1/Problem-5.java|Beginner|
 |D-2|[Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-2/Problem-1.java|Beginner|
 |D-2|[Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-2/Problem-2.java|Beginner|
-<<<<<<< HEAD
 |D-2|[Find Largest contiguous Subarray](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-2/Problem-3.java|Medium***|
 |D-3|[Minimize the Heights I](https://practice.geeksforgeeks.org/problems/minimize-the-heights-i/1/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-3/Problem-1.java|Hard|
 |D-3|[Minimize the Heights II](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-3/Problem-2.java|Hard***|
@@ -29,7 +28,5 @@
 |D-4|[Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-4/Problem-3.java|Medium***|
 |D-5|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-5/Problem-1.java|Medium|
 |D-5|[Next Permutation](https://leetcode.com/problems/next-permutation/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-5/Problem-2.java|Medium***|
-=======
 |D-2|[Kadane's Algorithm***](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-2/Problem-3.java|Medium|
->>>>>>> 064517b75af529dcd4e71514fe328657fad9ba37
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
