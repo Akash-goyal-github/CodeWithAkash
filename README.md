@@ -10,6 +10,16 @@
 
 <br>
 
+
+##Topics:-
+
+- [Array](#array)
+- [String](#string)
+
+
+# array 
+
+
 |Day|Problem|Solution Link|Difficulty|
 |:----:|:---:|:---:|:---:|
 |D-1|[Reverse the array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-1/Problem-1.java|Beginner|
@@ -30,3 +40,6 @@
 |D-5|[Next Permutation](https://leetcode.com/problems/next-permutation/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-5/Problem-2.java|Medium***|
 |D-5|[Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-5/Problem-3.java|Hard|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
+
+
+# string
