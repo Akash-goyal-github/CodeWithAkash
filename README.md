@@ -11,13 +11,13 @@
 <br>
 
 
-##Topics:-
+## Topics:-
 
 - [Array](#array)
 - [String](#string)
 
 
-# array 
+# Array 
 
 
 |Day|Problem|Solution Link|Difficulty|
@@ -42,4 +42,4 @@
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
 
-# string
+# String
