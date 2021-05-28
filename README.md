@@ -28,5 +28,5 @@
 |D-4|[Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-4/Problem-3.java|Medium***|
 |D-5|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-5/Problem-1.java|Medium|
 |D-5|[Next Permutation](https://leetcode.com/problems/next-permutation/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-5/Problem-2.java|Medium***|
-|D-2|[Kadane's Algorithm***](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-2/Problem-3.java|Medium|
+
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
