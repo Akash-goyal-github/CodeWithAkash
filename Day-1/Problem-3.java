@@ -21,8 +21,18 @@
 
             PriorityQueue<Integer> pQueue = new PriorityQueue<Integer>(Collections.reverseOrder());
 
+
+            
+  //1. We can use priority queue
+
+  //2. We can also directly sort the array and can print kth element.
+
+  //3. We can use min-heap and reduce time complexity.
+
   */
 
+
+  //Method-1 --> O(n*logn)--> priority queue
 
 class Solution{
     public static int kthSmallest(int[] arr, int l, int r, int k) 
@@ -59,4 +69,77 @@ class Solution{
         
     } 
 }
+
+
+
+
+//----------------------------------------------------------------------------------------------------------
+
+
+//Method-2 ---> O(n*logk)--->> Using Min Heap we can stop it after k times because we just need kth smallest number( //https://www.geeksforgeeks.org/min-heap-in-java/)
+
+
+
+class Solution{
+    public static int kthSmallest(int[] arr, int l, int r, int k) 
+    { 
+        //Your code here
+        
+        //https://www.geeksforgeeks.org/min-heap-in-java/
+        
+        //Min-Heap sort
+        
+        for(int i=((r+1)/2 -1);i>=0;i--)
+        {
+            heapify(arr,i, r);
+            
+        }
+        
+        int count=1;
+        for (int i = r; i > 0; i--) {
+            if(count==k)
+            {
+                return arr[0];
+            }
+            count++;
+            
+            int temp = arr[0];
+            arr[0] = arr[i];
+            arr[i] = temp;
+ 
+            heapify(arr, 0, i);
+        }
+        
+        return arr[0];
+        
+    } 
+    
+    
+    static void heapify(int arr[],int i, int n){
+        int smallest=i;
+        int left=2*i+1;
+        int right=2*i+2;
+        
+        if(left<n && arr[left]<arr[smallest])
+        {
+            smallest=left;
+        }
+        
+        if(right<n && arr[right]<arr[smallest])
+        {
+            smallest=right;
+        }
+        
+        
+        if(smallest!=i)
+        {
+            int temp=arr[smallest];
+            arr[smallest]=arr[i];
+            arr[i]=temp;
+            
+            heapify(arr,smallest,n);
+        }
+    }
+}
+
 
