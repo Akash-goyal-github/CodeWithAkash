@@ -16,6 +16,7 @@
 
   */
 
+// Method-1 Using HashSet Data Structure
 
 class Solution{
     public static int doUnion(int a[], int n, int b[], int m) 
@@ -33,5 +34,91 @@ class Solution{
         }
         
         return hs.size();
+    }
+}
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+// Method-2 Without using additional Data Structure
+
+
+
+class Solution{
+    public static int doUnion(int a[], int n, int b[], int m) 
+    {
+        
+        Arrays.sort(a);
+        Arrays.sort(b);
+        
+        int current_value=Integer.MIN_VALUE;
+        int union_count=0;// to contain count
+        
+        int i=0;
+        int j=0;
+        while(i<n && j<m)
+        {
+            if(current_value<a[i] && current_value<b[j])
+            {
+                if(a[i]<b[j]){
+                    current_value=a[i];
+                    i++;
+                    union_count++;
+                }
+                else if(a[i]>b[j])
+                {
+                    current_value=b[j];
+                    j++;
+                    union_count++;
+                }
+                else {
+                    current_value=a[i];
+                    i++;
+                    j++;
+                    union_count++;
+                }
+            }
+            else if(current_value==a[i])
+            {
+                i++;
+            }
+            else if(current_value==b[j])
+            {
+                j++;
+            }
+                    
+        }
+        
+        while(i<n)
+        {
+            if(current_value<a[i])
+            {
+                current_value=a[i];
+                    i++;
+                    union_count++;
+            }
+            else    //a[i]=current_value
+            {
+                i++;
+            }
+            
+                
+        }
+        while(j<m)
+        {
+            if(current_value<b[j])
+            {
+                current_value=b[j];
+                    j++;
+                    union_count++;
+            }
+            else{    //b[j]= current_value
+                j++;
+            }     
+        }
+        
+        return union_count;
+        
+        
     }
 }
