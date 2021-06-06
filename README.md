@@ -52,4 +52,8 @@
 |[D-6](./Day-6)|[Count pairs with given sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-6/Problem-2.java|Medium***|
 |[D-6](./Day-6)|[Common elements](https://practice.geeksforgeeks.org/problems/common-elements1132/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-6/Problem-3.java|Hard|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
+|[D-7](./Day-7)|[Rearrange the array in alternating positive and negative items with O(1) extra space](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-7/Problem-2.java|Medium|
+|[D-7](./Day-7)|[Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-7/Problem-2.java|Medium***|
+|[D-7](./Day-7)|[Find factorial of a large number](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-7/Problem-3.java|Hard|
+|<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
