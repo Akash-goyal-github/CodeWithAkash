@@ -54,5 +54,14 @@
 |[D-7](./Day-7)|[Rearrange the array in alternating positive and negative items with O(1) extra space](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-7/Problem-1.java|Medium|
 |[D-7](./Day-7)|[Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-7/Problem-2.java|Medium***|
 |[D-7](./Day-7)|[Find factorial of a large number](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-7/Problem-3.java|Medium***|
+|[D-8](./Day-8)|[find maximum product subarray](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-8/Problem-1.java|Medium***|
+|[D-8](./Day-8)|[Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-8/Problem-2.java|Medium***|
+|[D-8](./Day-8)|[Given an array of size n and a number k, find all elements that appear more than " n/k " times](https://practice.geeksforgeeks.org/problems/count-element-occurences/1#)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-8/Problem-3.java|Beginner***|
+|[D-9](./Day-9)|[Maximum Profit](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-9/Problem-1.java|Medium***|
+|[D-9](./Day-9)|[Array Subset of another array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-9/Problem-2.java|Beginner|
+|[D-9](./Day-9)|[Triplet Sum in Array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-9/Problem-3.java|Medium***|
+|[D-10](./Day-10)|[Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-10/Problem-1.java|Medium***|
+|[D-10](./Day-10)|[Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-10/Problem-2.java|Beginner|
+|[D-10](./Day-10)|[Smallest subarray with sum greater than x ](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-10/Problem-3.java|Beginner***|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
