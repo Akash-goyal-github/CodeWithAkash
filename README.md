@@ -63,6 +63,6 @@
 |[D-9](./Day-9)|[Triplet Sum in Array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-9/Problem-3.java|Medium***|
 |[D-10](./Day-10)|[Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-10/Problem-1.java|Medium***|
 |[D-10](./Day-10)|[Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-10/Problem-2.java|Beginner|
-|[D-10](./Day-10)|[Smallest subarray with sum greater than x ](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-10/Problem-3.java|Beginner***|
+|[D-10](./Day-10)|[Smallest subarray with sum greater than x ](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-10/Problem-3.java|Medium***|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
