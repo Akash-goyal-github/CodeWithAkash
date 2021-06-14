@@ -1,5 +1,5 @@
 
-  <h1 align="center"> Daily codeWithAkash :boom::100:</h1>
+  <h1 align="center">:100: :boom: Daily codeWithAkash :boom::100:</h1>
   <p align="center">
   <img src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif">
 
