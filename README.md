@@ -24,12 +24,6 @@
 
 <br>
 
-
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 7ad903d8cae5a1d83083883fb7dc21f96ff0a84e
 # [Arrays](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays)
 
 <br>
