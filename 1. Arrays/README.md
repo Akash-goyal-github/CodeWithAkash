@@ -1,19 +1,12 @@
 
-  <h1 align="center"> Daily codeWithAkash - Arrays :boom::100:</h1>
-  <p align="center">
-  <img src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif">
+  <h1 align="center">:100: Daily codeWithAkash :100:</h1>
+  
 
-  </p>
+  <h1 align="center">:boom: Arrays :boom: </h1>
 
-
----
 
 <br>
 
-
-# [Arrays](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays)
-
-<br>
 
 
 |Day|Problem|Solution Link|Difficulty|
