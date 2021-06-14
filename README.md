@@ -31,7 +31,7 @@
 
 |Day|Problem|Solution Link|Difficulty|
 |:----:|:---:|:---:|:---:|
-|[D-1](./Day-1)|[Reverse the array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-1/Problem-1.java|Beginner|
+|[D-1](./1.Arrays/Day-1)|[Reverse the array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-1/Problem-1.java|Beginner|
 |[D-1](./Day-1)|[Find minimum and maximum element in an array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1#)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-1/Problem-2.java|Beginner|
 |[D-1](./Day-1)|[Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-1/Problem-3.java|Beginner|
 |[D-1](./Day-1)|[Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/Day-1/Problem-4.java|Beginner|
