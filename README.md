@@ -17,7 +17,7 @@
 ---
 <!-- :white_check_mark: [Array](#array)  <img width=300/> :white_check_mark: [Array](#array)     <img width=300/> :white_check_mark: [Array](#array) -->
 
-:white_check_mark: [Arrays](#arrays)  <img width=200/> :white_check_mark: [Matrix](#matrix)
+:white_check_mark: [Arrays](#arrays)  <img width=150/> :white_check_mark: [Matrix](#matrix)
 
 ---
 <br>
