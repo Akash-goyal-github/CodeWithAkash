@@ -6,7 +6,10 @@
 
 
 <br>
+<<<<<<< HEAD
 
+=======
+>>>>>>> f2fb6c9d09145aad1aae8c4372fd9ea29b343d60
 
 |Day|Problem|Solution Link|Difficulty|
 |:----:|:---:|:---:|:---:|
@@ -16,5 +19,8 @@
 |[D-2](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix/Day-2)|[Row with max 1s](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/2.%20Matrix/Day-2/Problem-1.java|Easy***|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> f2fb6c9d09145aad1aae8c4372fd9ea29b343d60
