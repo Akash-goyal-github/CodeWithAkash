@@ -17,7 +17,7 @@
 ---
 <!-- :white_check_mark: [Array](#array)  <img width=300/> :white_check_mark: [Array](#array)     <img width=300/> :white_check_mark: [Array](#array) -->
 
-:white_check_mark: [Arrays](#arrays)  <img width=200/> :white_check_mark: [Matrix](#matrix)
+:white_check_mark: [Arrays](#arrays)  <img width=150/> :white_check_mark: [Matrix](#matrix)
 
 ---
 <br>
@@ -69,6 +69,8 @@
 |[D-12](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays/Day-12)|[Find the median](https://practice.geeksforgeeks.org/problems/find-the-median0527/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/1.%20Arrays/Day-12/Problem-1.java|Medium***|
 |[D-12](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays/Day-12)|[Median of 2 Sorted Arrays of Different Sizes](https://practice.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/0/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/1.%20Arrays/Day-12/Problem-2.java|Advanced***|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
+
+<br>
 
 <br>
 
