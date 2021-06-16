@@ -70,8 +70,18 @@
 |[D-12](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays/Day-12)|[Median of 2 Sorted Arrays of Different Sizes](https://practice.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/0/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/1.%20Arrays/Day-12/Problem-2.java|Advanced***|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
+<br>
 
 # [Matrix](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix)
+
+<br>
+
+|Day|Problem|Solution Link|Difficulty|
+|:----:|:---:|:---:|:---:|
+|[D-1](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Matrix/Day-1)|[Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/1.%Matrix/Day-1/Problem-1.java|Medium***|
+|<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
+
+
 
 
 

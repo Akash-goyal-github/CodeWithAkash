@@ -13,7 +13,9 @@
     Reference:- https://www.youtube.com/watch?v=NKoHjWl2m8Y
 
   */
-  
+
+//Method-1  
+
   public static long sb(long a[], long n, long x) {
     // Your code goes here 
     
@@ -54,4 +56,48 @@
     }
     
     return subarray_length;
+}
+
+--------------------------------------------------------------------------------------------------------------------------
+
+//Method-2
+
+class Solution {
+
+    public static long sb(long a[], long n, long x) {
+        // Your code goes here 
+        
+        int start=0;
+        int end=0;
+        long sum=0;
+        int min_count=Integer.MAX_VALUE;
+        
+        if(a[0]>x)
+        {
+            return 1;
+        }
+        
+        
+        while(start<n && end<n)
+        {
+           if(sum+a[end]<=x)
+           {
+               sum+=a[end];
+               end++;
+           }
+           else
+           {
+               if(min_count>end-start)
+               {
+                   min_count=end-start+1;
+               }
+               
+               sum-=a[start];
+               start++;
+           }
+        }
+        
+        return min_count;
+        
+    }
 }
