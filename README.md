@@ -95,9 +95,10 @@
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
 
-
 <br>
-  <img width=750/> [Top](#top) :top:
+
+<img width=750/> [Top](#top) :top:
+
 <br>
 
 # [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String) 
@@ -116,9 +117,8 @@
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
 <br>
- <img width=750/> [Top](#top) :top:
- 
- <br>
 
+<img width=750/> [Top](#top) :top:
 
+<br>
 
