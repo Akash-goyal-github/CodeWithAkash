@@ -111,7 +111,7 @@
 |[D-1](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String/Day-1)|[Print all the duplicates in the input string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/3.%20String/Day-1/Problem-3.java|Beginner***|
 |[D-2](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String/Day-2)|[First Repeated Character in a string](https://practice.geeksforgeeks.org/problems/repeated-character2058/1#)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/3.%20String/Day-1/Problem-1.java|Beginner***|
 |[D-2](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String/Day-2)|[Write a Code to check whether one string is a rotation of another](https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/3.%20String/Day-1/Problem-2.java|Beginner***|
-|[D-2](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String/Day-2)|[Write a Program to check whether a string is a valid shuffle of two strings or not](https://leetcode.com/problems/interleaving-string/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/3.%20String/Day-1/Problem-3.java|Beginner***|
+|[D-2](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String/Day-2)|[Write a Program to check whether a string is a valid shuffle of two strings or not](https://leetcode.com/problems/interleaving-string/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/3.%20String/Day-1/Problem-3.java|Advance***|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
 
