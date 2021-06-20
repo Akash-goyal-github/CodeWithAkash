@@ -17,7 +17,7 @@
 ---
 <!-- :white_check_mark: [Array](#array)  <img width=300/> :white_check_mark: [Array](#array)     <img width=300/> :white_check_mark: [Array](#array) -->
 
-:white_check_mark: [Arrays](#arrays)  <img width=150/> :white_check_mark: [Matrix](#matrix)
+:white_check_mark: [Arrays](#arrays)  <img width=150/> :white_check_mark: [Matrix](#matrix)  <img width=150/> :white_check_mark: [String](#string)
 
 ---
 <br>
@@ -94,6 +94,14 @@
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
 
+
+<br>
+
+<br>
+
+# [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix)
+
+<br>
 
 
 
