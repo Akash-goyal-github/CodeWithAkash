@@ -21,3 +21,17 @@
 |[D-4](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix/Day-4)|[Kth smallest element in a row-cpumn wise sorted matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/2.%20Matrix/Day-4/Problem-1.java|Medium***|
 |[D-4](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix/Day-4)|[Common elements in all rows of a given matrix](https://www.codingninjas.com/codestudio/problems/common-elements-present-in-all-rows-of-a-matrix_1118111)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/2.%20Matrix/Day-4/Problem-2.java|Easy***|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
+
+
+<br>
+
+  <h3> Check Other Topics :sunglasses: </h3>
+
+---
+
+:white_check_mark: [Arrays](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays)  <img width=150/> :white_check_mark: [Matrix](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix)  <img width=150/> :white_check_mark: [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String)
+
+---
+<br>
+
+<br>
