@@ -10,9 +10,9 @@
 
 <br>
 
+<a id="top"></a>
 
-
-# [Topics] :sunglasses:
+# Topics :sunglasses:
 
 ---
 
@@ -25,12 +25,8 @@
 
 <br>
 
-# [Arrays](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays) 
-# [Topics](#topics) :top:
+# [Arrays](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays) <img width=750/> [Top](#top) :top:
 <br>
-
-<a id="idtext"></a>
-
 
 |Day|Problem|Solution Link|Difficulty|
 |:----:|:---:|:---:|:---:|
@@ -77,7 +73,7 @@
 
 <br>
 
-# [Matrix](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix)
+# [Matrix](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix)  <img width=750/> [Top](#top) :top:
 
 <br>
 
@@ -102,7 +98,7 @@
 
 <br>
 
-# [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String)
+# [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String)  <img width=750/> [Top](#top) :top:
 
 <br>
 
@@ -118,6 +114,6 @@
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
 
-[text to show](#idtext)
+
 
 
