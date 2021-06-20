@@ -54,3 +54,18 @@
 
 
 
+<br>
+
+  <h3 align="center"> Check Other Topics :sunglasses: </h3>
+
+---
+<br>
+
+:white_check_mark: [Arrays](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays)  <img width=150/> :white_check_mark: [Matrix](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix)  <img width=150/> :white_check_mark: [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String)
+
+<br>
+
+
+
+
+
