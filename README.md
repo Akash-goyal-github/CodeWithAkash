@@ -73,9 +73,10 @@
 
 ### <img width=850/> [Top](#top) :top:
 
-<br>
 
 ---
+<br>
+
 
 # [Matrix](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix)
 
@@ -102,10 +103,11 @@
 
 ### <img width=850/> [Top](#top) :top:
 
-<br>
 
 
 ---
+
+<br>
 
 # [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String) 
 
@@ -126,7 +128,7 @@
 
 ### <img width=850/> [Top](#top) :top:
 
-<br>
-
 ---
+
+<br>
 
