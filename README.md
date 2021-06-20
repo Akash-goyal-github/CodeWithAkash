@@ -12,13 +12,13 @@
 
 
 
-## Topics :sunglasses:
+# [Arrays] :sunglasses:
 
 ---
 
-:white_check_mark: [Arrays](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays)  <img width=500/> :white_check_mark: [Matrix](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix)
+:white_check_mark: [Arrays](#Arrays)  <img width=500/> :white_check_mark: [Matrix](#Matrix)
 
-:white_check_mark: [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String)
+:white_check_mark: [String](#String)
 
 ---
 <br>
