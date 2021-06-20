@@ -18,3 +18,16 @@
 |[D-2](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String/Day-2)|[Write a Code to check whether one string is a rotation of another](https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/3.%20String/Day-2/Problem-2.java|Easy***|
 |[D-2](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String/Day-2)|[Write a Program to check whether a string is a valid shuffle of two strings or not](https://leetcode.com/problems/interleaving-string/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/3.%20String/Day-2/Problem-3.java|Advanced***|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
+
+
+
+<br>
+
+  <h3 align="center"> Check Other Topics :sunglasses: </h3>
+
+---
+<br>
+
+:white_check_mark: [Arrays](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays)  <img width=150/> :white_check_mark: [Matrix](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix)  <img width=150/> :white_check_mark: [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String)
+
+<br>
