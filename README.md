@@ -16,11 +16,9 @@
 
 ---
 
-|||
-|:----:|:---:|
-:white_check_mark: [Arrays](#arrays) | :white_check_mark: [Matrix](#matrix) | 
-:white_check_mark: [String](#string)
-|<img width=450/>|<img width=450/>|
+:white_check_mark: [Arrays](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays)  <img width=500/> :white_check_mark: [Matrix](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix)
+
+:white_check_mark: [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String)
 
 ---
 <br>
