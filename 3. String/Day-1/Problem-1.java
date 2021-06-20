@@ -1,15 +1,34 @@
 /**
  * @author AkashGoyal
- * @date 07/06/2021
+ * @date 09/06/2021
  */
 
 /**
 
 
---------------------- Problem----------->>   Find a specific pair in matrix
+--------------------- Problem----------->>   Reverse a String
 
-    Problem Link :- https://www.codingninjas.com/codestudio/problems/find-max-difference_893356
+    Problem Link :- https://leetcode.com/problems/reverse-string/
     
-    Reference:-  https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/
 
   */
+
+
+
+    class Solution {
+        public void reverseString(char[] s) {
+            int left=0;
+            int right=s.length-1;
+            
+            while(right>left)
+            {
+                char temp=s[left];
+                s[left]=s[right];
+                s[right]=temp;
+                right--;
+                left++;
+            }
+            
+            
+        }
+    }

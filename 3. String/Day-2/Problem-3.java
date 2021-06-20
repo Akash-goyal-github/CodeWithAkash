@@ -1,13 +1,13 @@
 /**
  * @author AkashGoyal
- * @date 06/06/2021
+ * @date 10/06/2021
  */
 
 /**
 
 
---------------------- Problem----------->>   Maximum size rectangle
+--------------------- Problem----------->>   Write a Program to check whether a string is a valid shuffle of two strings or not
 
-    Problem Link :- https://practice.geeksforgeeks.org/problems/max-rectangle/1
+    Problem Link :- https://leetcode.com/problems/interleaving-string/
 
   */
