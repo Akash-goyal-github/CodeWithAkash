@@ -71,7 +71,7 @@
 
 <br>
 
-<img width=750/> [Top](#top) :top:
+<img width=850/> [Top](#top) :top:
 
 <br>
 
@@ -97,7 +97,7 @@
 
 <br>
 
-<img width=750/> [Top](#top) :top:
+<img width=850/> [Top](#top) :top:
 
 <br>
 
@@ -118,7 +118,7 @@
 
 <br>
 
-<img width=750/> [Top](#top) :top:
+<img width=850/> [Top](#top) :top:
 
 <br>
 
