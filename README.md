@@ -25,7 +25,7 @@
 
 <br>
 
-# [Arrays](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays) <img width=750/> [Top](#top) :top:
+# [Arrays](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays) 
 <br>
 
 |Day|Problem|Solution Link|Difficulty|
@@ -71,9 +71,11 @@
 
 <br>
 
+<img width=750/> [Top](#top) :top:
+
 <br>
 
-# [Matrix](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix)  <img width=750/> [Top](#top) :top:
+# [Matrix](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix)
 
 <br>
 
@@ -95,10 +97,10 @@
 
 
 <br>
-
+  <img width=750/> [Top](#top) :top:
 <br>
 
-# [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String)  <img width=750/> [Top](#top) :top:
+# [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String) 
 
 <br>
 
@@ -113,7 +115,10 @@
 |[D-2](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String/Day-2)|[Write a Program to check whether a string is a valid shuffle of two strings or not](https://leetcode.com/problems/interleaving-string/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/3.%20String/Day-2/Problem-3.java|Advanced***|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
-
+<br>
+ <img width=750/> [Top](#top) :top:
+ 
+ <br>
 
 
 
