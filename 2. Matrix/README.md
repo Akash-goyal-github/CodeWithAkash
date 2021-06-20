@@ -6,10 +6,7 @@
 
 
 <br>
-<<<<<<< HEAD
 
-=======
->>>>>>> f2fb6c9d09145aad1aae8c4372fd9ea29b343d60
 
 |Day|Problem|Solution Link|Difficulty|
 |:----:|:---:|:---:|:---:|
@@ -17,10 +14,10 @@
 |[D-1](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix/Day-1)|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/2.%20Matrix/Day-1/Problem-2.java|Easy***|
 |[D-1](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix/Day-1)|[Median in a row-wise sorted Matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/2.%20Matrix/Day-1/Problem-3.java|Medium***|
 |[D-2](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix/Day-2)|[Row with max 1s](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/2.%20Matrix/Day-2/Problem-1.java|Easy***|
+|[D-2](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix/Day-2)|[Print elements in sorted order using row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix/0)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/2.%20Matrix/Day-2/Problem-2.java|Easy***|
+|[D-2](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix/Day-2)|[Maximum size rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/2.%20Matrix/Day-2/Problem-3.java|Medium***|
+|[D-3](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix/Day-3)|[Find a specific pair in matrix](https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/2.%20Matrix/Day-3/Problem-1.java|Medium***|
+|[D-3](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix/Day-3)|[Rotate matrix by 90 degrees](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/2.%20Matrix/Day-3/Problem-2.java|Medium***|
+|[D-4](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix/Day-4)|[Kth smallest element in a row-cpumn wise sorted matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/2.%20Matrix/Day-4/Problem-1.java|Medium***|
+|[D-4](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix/Day-4)|[Common elements in all rows of a given matrix](https://www.codingninjas.com/codestudio/problems/common-elements-present-in-all-rows-of-a-matrix_1118111)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/2.%20Matrix/Day-4/Problem-2.java|Easy***|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> f2fb6c9d09145aad1aae8c4372fd9ea29b343d60
