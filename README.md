@@ -10,24 +10,23 @@
 
 <br>
 
+<a id="top"></a>
 
-
-## Topics :sunglasses:
-
----
-<!-- :white_check_mark: [Array](#array)  <img width=300/> :white_check_mark: [Array](#array)     <img width=300/> :white_check_mark: [Array](#array) -->
-
-:white_check_mark: [Arrays](#arrays)  <img width=150/> :white_check_mark: [Matrix](#matrix)  <img width=150/> :white_check_mark: [String](#string)
+# Topics :sunglasses:
 
 ---
+
+:white_check_mark: [Arrays](#arrays)  <img width=500/> :white_check_mark: [Matrix](#matrix)
+
+:white_check_mark: [String](#string)
+
+---
 <br>
 
 <br>
 
-# [Arrays](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays)
-
+# [Arrays](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays) 
 <br>
-
 
 |Day|Problem|Solution Link|Difficulty|
 |:----:|:---:|:---:|:---:|
@@ -72,9 +71,15 @@
 
 <br>
 
+### <img width=850/> [Top](#top) :top:
+
+
+---
 <br>
 
+
 # [Matrix](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix)
+
 
 <br>
 
@@ -94,12 +99,17 @@
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
 
+<br>
+
+### <img width=850/> [Top](#top) :top:
+
+
+
+---
 
 <br>
 
-<br>
-
-# [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String)
+# [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String) 
 
 <br>
 
@@ -116,4 +126,10 @@
 |[D-3](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String/Day-3)|[Count and Say](https://leetcode.com/problems/count-and-say/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/3.%20String/Day-3/Problem-1.java|Easy***|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
 
+<br>
 
+### <img width=850/> [Top](#top) :top:
+
+---
+
+<br>

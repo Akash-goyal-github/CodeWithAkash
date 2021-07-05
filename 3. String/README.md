@@ -19,3 +19,19 @@
 |[D-2](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String/Day-2)|[Write a Program to check whether a string is a valid shuffle of two strings or not](https://leetcode.com/problems/interleaving-string/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/3.%20String/Day-2/Problem-3.java|Advanced***|
 |[D-3](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String/Day-3)|[Count and Say](https://leetcode.com/problems/count-and-say/)|https://github.com/Akash-goyal-github/CodeWithAkash/blob/main/3.%20String/Day-3/Problem-1.java|Easy***|
 |<img width=300/>|<img width=500/>|<img width=500/>|<img width=300/>|
+
+
+
+<br>
+
+  <h3 align="center"> Check Other Topics :sunglasses: </h3>
+
+---
+<br>
+
+:white_check_mark: [Arrays](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/1.%20Arrays)  <img width=500/> :white_check_mark: [Matrix](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/2.%20Matrix)
+
+:white_check_mark: [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String)
+
+
+<br>
