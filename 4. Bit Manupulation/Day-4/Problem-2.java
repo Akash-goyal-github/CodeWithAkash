@@ -7,7 +7,7 @@
 
 --------------------- Problem----------->>   Power Set 
 
-    Problem Link :- https://practice.geeksforgeeks.org/problems/division-without-using-multiplication-division-and-mod-operator/0/#
+    Problem Link :- https://practice.geeksforgeeks.org/problems/power-set4302/1
 
     Reference Link :- https://www.youtube.com/watch?v=b7AYbpM5YrE
 
