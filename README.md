@@ -18,9 +18,9 @@
 
 :white_check_mark: [Arrays](#arrays)  <img width=500/> :white_check_mark: [Matrix](#matrix)
 
-:white_check_mark: [String](#string)  <img width=500/> :white_check_mark: [Bit Manipulation](#BitManipulation)
+:white_check_mark: [String](#string)  <img width=500/> :white_check_mark: [Bit Manipulation](#Bit-Manipulation)
 
-:white_check_mark: [Searching & Sorting](#Searching & Sorting)
+:white_check_mark: [Searching & Sorting](#Searching-Sorting)
 
 ---
 <br>
@@ -136,7 +136,7 @@
 
 <br>
 
-# [BitManipulation](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/4.%20Bit%20Manupulation) 
+# [Bit-Manipulation](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/4.%20Bit%20Manupulation) 
 
 <br>
 
@@ -166,7 +166,7 @@
 <br>
 
 
-# [Searching & Sorting](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/5.%20Searching%20%26%20Sorting) 
+# [Searching-Sorting](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/5.%20Searching%20%26%20Sorting) 
 
 <br>
 
