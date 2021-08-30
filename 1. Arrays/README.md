@@ -56,7 +56,7 @@
 
 <br>
 
-  <h3> Check Other Topics :sunglasses: </h3>
+  <h3 align="center"> Check Other Topics :sunglasses: </h3>
 
 ---
 <br>
@@ -65,7 +65,10 @@
 
 :white_check_mark: [String](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/3.%20String)  <img width=500/> :white_check_mark: [Bit Manipulation](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/4.%20Bit%20Manupulation)
 
-:white_check_mark: [Searching & Sorting](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/5.%20Searching%20%26%20Sorting)
+:white_check_mark: [Searching & Sorting](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/5.%20Searching%20%26%20Sorting)  <img width=500/> 
+
+:white_check_mark: [Linked List](https://github.com/Akash-goyal-github/CodeWithAkash/tree/main/6.%20Linked%20List)
+
 
 <br>
 
