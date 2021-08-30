@@ -20,7 +20,7 @@
 
 :white_check_mark: [String](#string)  <img width=500/> :white_check_mark: [Bit Manipulation](#Bit-Manipulation)
 
-:white_check_mark: [Searching & Sorting](#Searching-Sorting) <img width=500/>  :white_check_mark: [Linked List](#Linked-List)
+:white_check_mark: [Searching & Sorting](#Searching-Sorting) <img width=400/>  :white_check_mark: [Linked List](#Linked-List)
 
 
 
